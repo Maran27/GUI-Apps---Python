@@ -3,3 +3,4 @@ some GUI Apps made with Tkinter and Python
 
 * RPS.py (Rock, Paper, Scissors) -- Game
 * calci.py (Calculator) -- Application
+* TTT.py (Tic Tac Toe) -- Game
